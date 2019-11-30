@@ -5,6 +5,7 @@ package com.genius;
  */
 public class Start {
     public static void main(String[] args) {
-        System.out.print("hello word");
+        System.out.print("hello word1");
+        System.out.print("hello word2");
     }
 }
